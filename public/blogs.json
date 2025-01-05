@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "cover": "https://i.postimg.cc/NMbTN2Y6/2.png",
+        "title": "Introduction to Python Programming",
+        "author_img": "https://i.postimg.cc/j5RPQ4Vq/girl2.jpg",
+        "author": "Alice Smith",
+        "posted_date": "2025-01-04",
+        "reading_time": 10,
+        "hashtags": ["python", "programming", "beginners"]
+    },
+    {
+        "id": 2,
+        "cover": "https://i.postimg.cc/fWBjCpTG/4.jpg",
+        "title": "Web Development Basics: HTML & CSS",
+        "author_img": "https://i.postimg.cc/BQz59FFN/boy1.png",
+        "author": "Bob Johnson",
+        "posted_date": "2025-01-03",
+        "reading_time": 8,
+        "hashtags": ["webdev", "html", "css"]
+    },
+    {
+        "id": 3,
+        "cover": "https://i.postimg.cc/hvyLGz5D/1.jpg",
+        "title": "JavaScript Fundamentals for Beginners",
+        "author_img": "https://i.postimg.cc/FHJy9Kgv/boy2.jpg",
+        "author": "David Brown",
+        "posted_date": "2025-01-02",
+        "reading_time": 15,
+        "hashtags": ["javascript", "programming", "basics"]
+    },
+    {
+        "id": 4,
+        "cover": "https://i.postimg.cc/TY1j40Kp/3.png",
+        "title": "Introduction to React",
+        "author_img": "https://i.postimg.cc/8CQhsVt6/girl1.jpg",
+        "author": "Emma Wilson",
+        "posted_date": "2025-01-01",
+        "reading_time": 12,
+        "hashtags": ["react", "react_intro", "coding"]
+    }
+]
